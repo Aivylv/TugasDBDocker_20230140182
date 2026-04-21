@@ -1,4 +1,4 @@
-## 🐳 Docker Desktop
+## Docker Desktop
 
 | No | Keterangan | Screenshot |
 |----|-----------|-----------|
@@ -7,7 +7,7 @@
 
 ---
 
-## 🌐 Web dari Docker
+## Web dari Docker
 
 | No | Keterangan | Screenshot |
 |----|-----------|-----------|
